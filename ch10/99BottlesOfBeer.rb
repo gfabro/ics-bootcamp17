@@ -8,7 +8,7 @@ end
   end
 
   num_string = ''
-  ones_place = ['one'      , 'two'     , 'three'   , 'four'   , 'five'    ,
+  ones_place = ['one'      , 'two'     , 'three'   , 'four'    , 'five'   ,
                 'six'      , 'seven'   , 'eight'   , 'nine'    ]
   tens_place = ['ten'      , 'twenty'  , 'thirty'  , 'forty'   , 'fifty'  ,
                 'sixty'    ,'seventy'  , 'eighty'  , 'ninety'  ]
@@ -87,4 +87,4 @@ while current_beer > 0
   end
 end
 puts ''
-puts 'No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, ' + original_beer +  ' bottles of beer on the wall.' 
+puts 'No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, ' + original_beer +  ' bottles of beer on the wall.'
